@@ -2,5 +2,6 @@ composer create-project laravel/laravel inventory
 composer require laravel/ui
 php artisan ui vue --auth
 npm install
+npm install vue-router
 npm run dev
 php artisan serve
